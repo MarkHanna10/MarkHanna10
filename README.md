@@ -15,6 +15,11 @@ I build full-stack web apps with real users, automated data pipelines and tested
 - Daily data refresh and redeploy through GitHub Actions
 - React, Vite, Tailwind, Supabase (Postgres + RLS), Python, scikit-learn, Vitest
 
+### More projects
+
+- [Course Explorer](https://github.com/MarkHanna10/SE2202-MiniProject2): filter and sort a course catalog loaded from JSON. [Live demo](https://markhanna10.github.io/SE2202-MiniProject2/)
+- [Assignment Tracker](https://github.com/MarkHanna10/SE2202_MiniProject3): event-driven simulation with the Observer pattern and Promises
+
 ### Tech
 
 - **Languages:** JavaScript, Python, SQL
@@ -24,4 +29,4 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/markhanna10) · [markshanna2006@gmail.com](mailto:markshanna2006@gmail.com)
+[Portfolio](https://markhanna10.github.io/github-portfolio/) · [LinkedIn](https://www.linkedin.com/in/markhanna10) · [markshanna2006@gmail.com](mailto:markshanna2006@gmail.com)
