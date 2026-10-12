@@ -17,7 +17,7 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### Tech
 
-**Languages:** JavaScript, Python, SQL
-**Frontend:** React, Vite, Tailwind CSS
-**Backend:** Supabase, PostgreSQL, Edge Functions (Deno)
-**Tooling:** Git, GitHub Actions, Vercel, Vitest
+- **Languages:** JavaScript, Python, SQL
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Supabase, PostgreSQL, Edge Functions (Deno)
+- **Tooling:** Git, GitHub Actions, Vercel, Vitest
