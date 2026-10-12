@@ -24,4 +24,4 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### Contact
 
-[markshanna2006@gmail.com](mailto:markshanna2006@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/markhanna10) · [markshanna2006@gmail.com](mailto:markshanna2006@gmail.com)
