@@ -6,7 +6,7 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### Featured project
 
-**[World Cup 2026 Predictor](https://github.com/MarkHanna10/world-cup-2026-predictor)**
+**[World Cup 2026 Predictor](https://github.com/MarkHanna10/world-cup-2026-predictor)** · [Live site](https://markhanna10.github.io/world-cup-2026-predictor/)
 
 - Match prediction app with 100+ users during the 2026 World Cup
 - Logistic regression model, 68.6% cross-validated accuracy on 2,448 matches
@@ -20,4 +20,8 @@ I build full-stack web apps with real users, automated data pipelines and tested
 - **Languages:** JavaScript, Python, SQL
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Supabase, PostgreSQL, Edge Functions (Deno)
-- **Tooling:** Git, GitHub Actions, Vercel, Vitest
+- **Tooling:** Git, GitHub Actions, GitHub Pages, Vercel, Vitest
+
+### Contact
+
+[markshanna2006@gmail.com](mailto:markshanna2006@gmail.com)
