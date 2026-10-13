@@ -6,9 +6,9 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### Featured project
 
-**[World Cup 2026 Predictor](https://github.com/MarkHanna10/world-cup-2026-predictor)** · [Live site](https://markhanna10.github.io/world-cup-2026-predictor/)
+**[World Cup 2026 Predictor](https://github.com/MarkHanna10/world-cup-2026-predictor)** · [Live site](https://worldcup26-lemon-five.vercel.app/) · built 50/50 with [Karim Assaad](https://github.com/TheCoolKar)
 
-- Match prediction app with 100+ users during the 2026 World Cup
+- Match prediction app with 120+ users across 8 leagues during the 2026 World Cup
 - Logistic regression model, 68.6% cross-validated accuracy on 2,448 matches
 - 10,000-run Monte Carlo tournament simulation
 - Live scores through Supabase Edge Functions, pg_cron and Realtime
