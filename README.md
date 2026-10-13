@@ -17,15 +17,16 @@ I build full-stack web apps with real users, automated data pipelines and tested
 
 ### More projects
 
+- [Dobby's Night Out](https://github.com/MarkHanna10/Dobbys-Night-Out): five-level adventure RPG in Unity 6 and C#, built with a team of five. I prototyped the Cat Smack combat ability
 - [Course Explorer](https://github.com/MarkHanna10/SE2202-MiniProject2): filter and sort a course catalog loaded from JSON. [Live demo](https://markhanna10.github.io/SE2202-MiniProject2/)
 - [Assignment Tracker](https://github.com/MarkHanna10/SE2202_MiniProject3): event-driven simulation with the Observer pattern and Promises
 
 ### Tech
 
-- **Languages:** JavaScript, Python, SQL
+- **Languages:** JavaScript, Python, SQL, C#
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Supabase, PostgreSQL, Edge Functions (Deno)
-- **Tooling:** Git, GitHub Actions, GitHub Pages, Vercel, Vitest
+- **Tooling:** Git, GitHub Actions, GitHub Pages, Vercel, Vitest, Unity
 
 ### Contact
 
